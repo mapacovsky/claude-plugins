@@ -1,0 +1,21 @@
+{
+  "name": "mapacovsky-plugins",
+  "description": "Personal Claude Code plugins",
+  "owner": {
+    "name": "mapacovsky"
+  },
+  "plugins": [
+    {
+      "name": "personal-commands",
+      "description": "Personal global commands",
+      "author": {
+        "name": "mapacovsky"
+      },
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/mapacovsky/claude-plugins.git",
+        "path": "plugins/personal-commands"
+      }
+    }
+  ]
+}
