@@ -1,5 +1,6 @@
 ---
-description: Update HANDOFF.md to reflect the current session state.
+name: handoff
+description: Update HANDOFF.md to reflect the current session state. Use when the user types /handoff or asks to update the handoff document before ending a session.
 ---
 
 Update HANDOFF.md to reflect the current session state.
